@@ -1,3 +1,5 @@
+// instructions: switch between TS2.6 and 2.7 while viewing this file
+
 type OldSATScore = [number, number]; /* Math, Reading */
 type NewSATScore = [number, number, number]; /* Math, Reading, Writing */
 

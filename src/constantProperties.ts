@@ -1,3 +1,5 @@
+// instructions: switch between TS2.6 and 2.7 while viewing this file
+
 const key = "key";
 const TYPE_NAME = Symbol("type name generator");
 const OTHER_SYMBOL = Symbol();

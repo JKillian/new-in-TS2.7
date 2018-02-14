@@ -1,3 +1,5 @@
+// instructions: switch between TS2.6 and 2.7 while viewing this file
+
 type Car =   { gasInTank: number; maxSpeed: number}
 type Truck = { gasInTank: number; maxSpeed: number, totalCargo: number}
 type Train = { maxSpeed: number; totalCargo: number}
