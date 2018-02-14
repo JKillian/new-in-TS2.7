@@ -1,0 +1,14 @@
+{
+  "name": "ts27",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "jkillian",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "yarn run tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "2.6.2"
+  }
+}
